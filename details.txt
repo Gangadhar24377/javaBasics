@@ -1,0 +1,10 @@
+These files covers concepts like:
+
+Hello World program
+
+if-then
+Logical AND (&&)
+Logical OR (||)
+Assignment Operator vs Equals to Operator
+Ternary Operator
+Operator Precedence and Operator Challenge
