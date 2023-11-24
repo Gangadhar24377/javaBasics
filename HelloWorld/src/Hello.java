@@ -42,5 +42,17 @@ public class Hello {
 
         String s = (isDomestic) ? "This car is domestic" : "This car is not domestic";
         System.out.println(s);
+
+        Double var1 = 20.00d;
+        Double var2 = 80.00d;
+        Double add = (var1 + var2)*100.00d;
+        System.out.println("My add is: " + add);
+        double rem = add % 40.00d;
+        System.out.println("The rem is: " + rem);
+        boolean rem2 = (rem == 0) ? true : false;
+        System.out.println("The rem2 is: " + rem2);
+        if (!rem2) {
+            System.out.println("Got some reminder");
+        }
     }
 }
