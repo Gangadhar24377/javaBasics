@@ -1,6 +1,7 @@
 These files covers concepts like:
 
 # 1st part
+
 Hello World program
 if-then
 Logical AND (&&)
@@ -10,3 +11,30 @@ Ternary Operator
 Operator Precedence and Operator Challenge
 
 # 2nd Part
+
+Keywords and Expressions
+Statements, Whitespace and Indentation (Code Organization)
+Code Blocks And The If Then Else Control Statement
+if then else Challenge
+Methods in Java
+More on Methods
+Methods Recap
+Method Challenge
+Code comparison in Intellij
+Coding Exercises Introduction
+Ex1: Positive, Negative or Zero
+Ex2: Speed Converter
+Ex3: MegaBytes Converter
+Ex4: Barking Dog
+Ex5: Leap Year Calculator
+Ex6: Decimal Comparator
+Ex7: Equal Sum Checker
+Ex8: Team NUmber Checker
+Method Overloading
+Method Overloading Challenge
+Seconds and Minutes Challenge
+Bonus Challenge Solution
+Ex9: Area Calculator
+Ex10: Minutes to Years and Days Calculator
+Ex11: Equality Printer
+Ex12: Playing Cat
